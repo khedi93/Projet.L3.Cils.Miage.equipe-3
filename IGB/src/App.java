@@ -1,12 +1,3 @@
-/*public class App {
-    public static void main(String[] args) throws Exception {
-        System.out.println("Hello, Team!");
-        System.out.println("i am here");
-        System.out.println("nith");
-        System.out.println("nith2");    
-    }
-} */
-
 public class Personne implements java.io.Serializable{
     private String nom = "";
     private String prenom ="";
